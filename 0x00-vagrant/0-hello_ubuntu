@@ -1,1 +1,2 @@
-Linux x
+#!/bin/bash
+echo file
